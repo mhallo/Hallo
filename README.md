@@ -1,5 +1,8 @@
 # hallo
 
+Experiments with Vue.js and yarn.  Hopefully can evolve into a personal webpage.
+Keeping expectations modest as I will revisit and revise a couple of times.
+
 ## Project setup
 ```
 yarn install
