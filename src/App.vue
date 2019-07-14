@@ -37,6 +37,7 @@ export default {
 }
 #nav {
   padding: 30px;
+  background-color: rgb(202, 202, 55);
 }
 
 #nav a {
