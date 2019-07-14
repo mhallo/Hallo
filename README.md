@@ -3,6 +3,8 @@
 Experiments with Vue.js and yarn.  Hopefully can evolve into a personal webpage.
 Keeping expectations modest as I will revisit and revise a couple of times.
 
+
+
 ## Project setup
 ```
 yarn install
@@ -18,15 +20,12 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
+### Tests
 ```
 yarn run test
 ```
 
-### Lints and fixes files
+### Lint files
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
