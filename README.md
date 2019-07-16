@@ -5,9 +5,13 @@ Keeping expectations modest as I will revisit and revise a couple of times.
 
 ##
 Page Structure: (Ideas)
+
 Home
+
 Projects
+
 Contact
+
 Who I am?
 
 Modal to refer to references / etc.
