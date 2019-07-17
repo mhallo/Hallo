@@ -22,27 +22,19 @@ Who I am?
 
 Modal to refer to references / etc.
 
-## Project setup
-```
-yarn install
-```
+## Build Setup
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+``` bash
+# install dependencies
+$ yarn install
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+# serve with hot reload at localhost:3000
+$ yarn dev
 
-### Tests
-```
-yarn run test
-```
+# build for production and launch server
+$ yarn build
+$ yarn start
 
-### Lint files
-```
-yarn run lint
+# generate static project
+$ yarn generate
 ```
