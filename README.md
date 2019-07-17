@@ -3,7 +3,7 @@
 Experiments with Vue.js and yarn.  Hopefully can evolve into a personal webpage.
 Keeping expectations modest as I will revisit and revise a couple of times.
 
-#TODO:
+# TODO:
 * Setup structure of pages dependent on goals
 * Decide on Transition of things
 * Add content
