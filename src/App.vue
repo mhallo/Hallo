@@ -8,6 +8,9 @@
     <transition name="fade" mode="out-in">
       <router-view/>
     </transition>
+    <div id="copyright">
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati, quasi alias tempore sit, eligendi voluptatem assumenda vero pariatur modi soluta dolorem dicta aspernatur consectetur facilis eum inventore, magnam fugit est?</p>
+    </div>
   </div>
 </template>
 
@@ -22,6 +25,9 @@
 #nav {
   padding: 30px;
   background-color: rgb(202, 202, 55);
+}
+#copyright {
+  background-color: rgb(87, 170, 54)
 }
 
 #nav a {
