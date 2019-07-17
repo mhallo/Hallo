@@ -25,16 +25,19 @@ Modal to refer to references / etc.
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 1) install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+#EITHER:
+
+# 2a) serve with hot reload at localhost:3000
 $ yarn dev
 
-# build for production and launch server
+# 2b) build for production and launch server
 $ yarn build
 $ yarn start
 
+# Additionally: 
 # generate static project
 $ yarn generate
 ```
