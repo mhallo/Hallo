@@ -10,7 +10,7 @@ Keeping expectations modest as I will revisit and revise a couple of times.
 * AJAX other stuff?
 * Style, style, style.
 
-##Page Structure: (Ideas)
+## Page Structure: (Ideas)
 
 Home
 
