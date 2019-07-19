@@ -11,15 +11,11 @@ Keeping expectations modest as I will revisit and revise a couple of times.
 * Style, style, style.
 
 ## Page Structure: (Ideas)
-
+One page:  scroll to load contents.  Lazy load the section you need.
 Home
-
 Projects
-
 Contact
-
 Who I am?
-
 Modal to refer to references / etc.
 
 ## Build Setup
