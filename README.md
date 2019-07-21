@@ -12,6 +12,7 @@ Keeping expectations modest as I will revisit and revise a couple of times.
 
 ## Page Structure: 
 One page:  scroll to load contents.  Lazy load the section you need.
+
 ~~Nav Placeholder~~
 
 Landing
