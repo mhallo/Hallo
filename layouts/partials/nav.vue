@@ -1,6 +1,6 @@
 <template>
     <header>
-        <nuxt-link to="/" class="nav-logo">Testeroo</nuxt-link>
+        <nuxt-link to="/" class="nav-logo">Hallo</nuxt-link>
         <nav>
             <ul>
             </ul>
@@ -16,6 +16,8 @@ export default {
 
 <style>
     header {
-        background-color: #1ebaf8;
+        padding-top: 1em;
+        padding-left: .5em;
+        background-color: transparent;
     }
 </style>

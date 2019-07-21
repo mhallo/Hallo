@@ -1,6 +1,6 @@
 # hallo
 
-Experiments with Vue.js and yarn.  Hopefully can evolve into a personal webpage.
+Personal project with Vue.js and yarn.  Hopefully can evolve into a personal webpage.
 Keeping expectations modest as I will revisit and revise a couple of times.
 
 # TODO:
@@ -10,12 +10,18 @@ Keeping expectations modest as I will revisit and revise a couple of times.
 * AJAX other stuff?
 * Style, style, style.
 
-## Page Structure: (Ideas)
+## Page Structure: 
 One page:  scroll to load contents.  Lazy load the section you need.
-Home
+~~Nav Placeholder~~
+
+Landing
+
 Projects
+
 Contact
+
 Who I am?
+
 Modal to refer to references / etc.
 
 ## Build Setup
