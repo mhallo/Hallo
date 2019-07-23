@@ -1,28 +1,6 @@
 <template>
     <header>
-        <div class="header">
-            <nav>
-                <nuxt-link to="/" class="nav-logo">Hallo</nuxt-link>
-                <ul class="cf">
-                    <li><a href="#">Menu Item 1</a></li>
-                    <li><a class="dropdown" href="#">Menu Item 2</a>
-                        <ul>
-                            <li><a href="#">Sub-menu Item 1</a></li>
-                            <li><a href="#">Sub-menu Item 2</a></li>
-                            <li><a href="#">Sub-menu Item 3</a></li>
-                        </ul>
-                        </li>
-                    <li><a class="dropdown" href="#">Menu Item 3</a>
-                        <ul>
-                            <li><a href="#">Sub-menu Item 1</a></li>
-                            <li><a href="#">Sub-menu Item 2</a></li>
-                            <li><a href="#">Sub-menu Item 3</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Menu Item 4</a></li>
-                </ul>
-            </nav>
-        </div>
+    <nuxt-link to="/" class="nav-logo">Hallo</nuxt-link>
     </header>
 </template>
 
@@ -37,95 +15,5 @@ export default {
         padding-top: 1em;
         padding-left: .5em;
         background-color: transparent;
-    }
-    * {
-        outline: none;
-        padding: 0;
-        margin: 0;
-    }
-    a {
-        outline: none !important;
-    }
-    body {
-        background-color: #F5F5F5;
-        color: #555;
-        font-size: 1.1em;
-        font-family: Arial, Helvetica, sans-serif;
-        outline: none;
-        padding: 0;
-        margin: 0;
-    }
-
-    .header{
-        background:#FFF;
-    }
-
-    nav ul {
-        -webkit-font-smoothing: antialiased;
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-    }
-    nav li {
-        float: left;
-        margin: 0;
-        padding: 0;
-        position: relative;
-    }
-    nav a {
-        color: #444;
-        display: block;
-        font: normal 13px/50px Arial, Helvetica, sans-serif;
-        padding: 0 25px;
-        text-align: center;
-        text-decoration: none;
-        -webkit-transition: all .25s ease;
-        -moz-transition: all .25s ease;
-        -ms-transition: all .25s ease;
-        -o-transition: all .25s ease;
-        transition: all .25s ease;
-    }
-    /* nav .dropdown {
-        background:url('../images/arrow.jpg') no-repeat right center;
-    } */
-    nav li:hover a {
-        background: #01abf8;
-        color:#FFF;
-    }
-    nav li ul {
-        float: left;
-        left: 0;
-        width:150%;
-        opacity: 0;
-        position: absolute;
-        top: 35px;
-        visibility: hidden;
-        z-index: 1;
-        -webkit-transition: all .25s ease;
-        -moz-transition: all .25s ease;
-        -ms-transition: all .25s ease;
-        -o-transition: all .25s ease;
-        transition: all .25s ease;
-    }
-    nav li:hover ul {
-        opacity: 1;
-        top: 50px;
-        visibility: visible;
-    }
-    nav li ul li {
-        float: none;
-        width: 100%;
-    }
-    nav li ul a:hover {
-        background: #bbb;
-    }
-    /* Clearfix */
-    .cf:after, .cf:before {
-        content: "";
-        display: table;
-    }
-    .cf:after {
-        clear: both;
     }
 </style>
